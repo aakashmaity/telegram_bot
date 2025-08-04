@@ -66,10 +66,4 @@ BOT_TOKEN = your_bot_token
 node index.js
 ```
 
-## License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-
-
 <a href="#top">Back to top</a>
